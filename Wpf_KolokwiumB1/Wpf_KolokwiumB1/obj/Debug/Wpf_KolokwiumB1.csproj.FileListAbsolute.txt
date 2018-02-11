@@ -1,0 +1,13 @@
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumB1\Wpf_KolokwiumB1\bin\Debug\Wpf_KolokwiumB1.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumB1\Wpf_KolokwiumB1\bin\Debug\Wpf_KolokwiumB1.exe
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumB1\Wpf_KolokwiumB1\bin\Debug\Wpf_KolokwiumB1.pdb
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumB1\Wpf_KolokwiumB1\obj\Debug\Wpf_KolokwiumB1.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumB1\Wpf_KolokwiumB1\obj\Debug\MainWindow.baml
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumB1\Wpf_KolokwiumB1\obj\Debug\MainWindow.g.cs
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumB1\Wpf_KolokwiumB1\obj\Debug\App.g.cs
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumB1\Wpf_KolokwiumB1\obj\Debug\Wpf_KolokwiumB1_MarkupCompile.cache
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumB1\Wpf_KolokwiumB1\obj\Debug\Wpf_KolokwiumB1.g.resources
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumB1\Wpf_KolokwiumB1\obj\Debug\Wpf_KolokwiumB1.Properties.Resources.resources
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumB1\Wpf_KolokwiumB1\obj\Debug\Wpf_KolokwiumB1.csproj.GenerateResource.Cache
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumB1\Wpf_KolokwiumB1\obj\Debug\Wpf_KolokwiumB1.exe
+c:\users\adam\documents\visual studio 2013\Projects\Wpf_KolokwiumB1\Wpf_KolokwiumB1\obj\Debug\Wpf_KolokwiumB1.pdb
